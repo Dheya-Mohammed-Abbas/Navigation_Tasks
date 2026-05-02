@@ -8,7 +8,7 @@
 شاشة الانطلاق التي تسمح بالدخول إلى التمرينين:
 
 <p align="center">
-  <img src="screenshots/0_main_menu.png" width="300" alt="Main Menu">
+  <img src="screenshots/0_main_menu.jpg" width="300" alt="Main Menu">
 </p>
 
 ---
